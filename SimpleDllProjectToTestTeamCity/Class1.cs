@@ -8,7 +8,7 @@ namespace SimpleDllProjectToTestTeamCity
         public DateTime BirthDate { get; set; }
         public int AgeInDays
         {
-            get { return (DateTime.Today - BirthDate).Days;  }
+            get { return (DateTime.Today - BirthDate).Days; }
         }
     }
 }

@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleDllProjectToTestTeamCity\SimpleDllProjectToTestTeamCity.csproj">
-      <Project>{5b7d4178-18a2-4684-aaae-7b18dd9cd7eb}</Project>
+      <Project>{9964d276-6fdb-45b7-8082-73f435911263}</Project>
       <Name>SimpleDllProjectToTestTeamCity</Name>
     </ProjectReference>
   </ItemGroup>
