@@ -17,7 +17,7 @@ namespace ConsoleApp1
                 BirthDate = new DateTime(1957, 12, 24)
             };
 
-            Console.WriteLine($" I am now {me.AgeInDays} days old. Damn...");
+            Console.WriteLine($" I am now {me.AgeInDays} days old. Daaaang...");
             Console.ReadKey();
         }
     }
