@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSimpleDll", "ConsoleApp1\TestSimpleDll.csproj", "{7E0364BF-DF51-4E8D-8B59-F6312B6138B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDllProjectToTestTeamCity", "SimpleDllProjectToTestTeamCity\SimpleDllProjectToTestTeamCity.csproj", "{9964D276-6FDB-45B7-8082-73F435911263}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDllProjectToTestTeamCity", "SimpleDllProjectToTestTeamCity\SimpleDllProjectToTestTeamCity.csproj", "{BE92E414-8275-493F-B29E-87018F1E278C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7E0364BF-DF51-4E8D-8B59-F6312B6138B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E0364BF-DF51-4E8D-8B59-F6312B6138B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E0364BF-DF51-4E8D-8B59-F6312B6138B4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9964D276-6FDB-45B7-8082-73F435911263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9964D276-6FDB-45B7-8082-73F435911263}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9964D276-6FDB-45B7-8082-73F435911263}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9964D276-6FDB-45B7-8082-73F435911263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE92E414-8275-493F-B29E-87018F1E278C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE92E414-8275-493F-B29E-87018F1E278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE92E414-8275-493F-B29E-87018F1E278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE92E414-8275-493F-B29E-87018F1E278C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
